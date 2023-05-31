@@ -1,0 +1,15 @@
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.csproj.AssemblyReference.cache
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.AssemblyInfoInputs.cache
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.AssemblyInfo.cs
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.csproj.CoreCompileInputs.cache
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.exe
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.deps.json
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.runtimeconfig.json
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.dll
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.pdb
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.dll
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\refint\Gabarito.dll
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.pdb
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.genruntimeconfig.cache
+C:\Users\Familia Torrente\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\ref\Gabarito.dll
