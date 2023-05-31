@@ -25,6 +25,7 @@ public class Program
         {
             respostasAluno.Add(resposta);
             numQuestaoAtual++;
+            // ola
         }
 
         public int Acertos()
